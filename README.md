@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @LyapustinPavel
+- 👋 Hi, I’m Lyapustin Pavel
 - 👀 I’m interested in web-development and artificial intellegence
 - 🌱 I’m currently learning Javascript and Node.js
