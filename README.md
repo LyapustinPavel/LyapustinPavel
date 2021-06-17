@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @LyapustinPavel
+- 👀 I’m interested in web-development and artificial intellegence
+- 🌱 I’m currently learning Javascript and Node.js
